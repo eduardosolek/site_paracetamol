@@ -9,13 +9,32 @@
     padding: 15px 0;
     color: #CEBBE6;
 }
-body{
-    background-color: #CEBBE6;
-}
 .pilula {
     width: 65%;
 }
 .titulo {
     margin: 20px;
     font-size: 70px;
+}
+.caixa {
+    width: 30%;
+}
+.informações{
+    background-image: linear-gradient(#703D99,#CEBBE6);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0 50px;
+}
+.informações-div {
+    width: 50%;
+}
+.sobreparecetamol{
+    padding: 30px 0px 0 -50;
+    font-size: 40px;
+}
+.sobre {
+font-size: 35px;
+padding: 0 50px 0 -80px;
 }
